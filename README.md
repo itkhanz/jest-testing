@@ -1,4 +1,4 @@
-#JEST
+# JEST
 
 This repo contains the coding snippets to understand and experiment with the JEST javascript testing library.
 
