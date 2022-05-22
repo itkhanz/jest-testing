@@ -22,3 +22,4 @@ This repo contains the coding snippets to understand and experiment with the JES
     ```
 4. Create and execute a test script with `.test.js` at the end.
 5. Run the tests with a command `npm test`
+6. To run a specific test, run the command with the name of file for example. `npm run test async`.
